@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/check-go-demo/static/css/main.c7f8eef9.chunk.css",
-    "main.js": "/check-go-demo/static/js/main.27166723.chunk.js",
-    "main.js.map": "/check-go-demo/static/js/main.27166723.chunk.js.map",
+    "main.js": "/check-go-demo/static/js/main.85863565.chunk.js",
+    "main.js.map": "/check-go-demo/static/js/main.85863565.chunk.js.map",
     "runtime-main.js": "/check-go-demo/static/js/runtime-main.e8d3df59.js",
     "runtime-main.js.map": "/check-go-demo/static/js/runtime-main.e8d3df59.js.map",
     "static/css/2.dcd3554e.chunk.css": "/check-go-demo/static/css/2.dcd3554e.chunk.css",
@@ -23,8 +23,8 @@
     "static/js/2.95a57a6c.chunk.js.LICENSE.txt": "/check-go-demo/static/js/2.95a57a6c.chunk.js.LICENSE.txt",
     "static/js/2.95a57a6c.chunk.js.LICENSE.txt.gz": "/check-go-demo/static/js/2.95a57a6c.chunk.js.LICENSE.txt.gz",
     "static/js/2.95a57a6c.chunk.js.gz": "/check-go-demo/static/js/2.95a57a6c.chunk.js.gz",
-    "static/js/main.27166723.chunk.js.LICENSE.txt": "/check-go-demo/static/js/main.27166723.chunk.js.LICENSE.txt",
-    "static/js/main.27166723.chunk.js.gz": "/check-go-demo/static/js/main.27166723.chunk.js.gz",
+    "static/js/main.85863565.chunk.js.LICENSE.txt": "/check-go-demo/static/js/main.85863565.chunk.js.LICENSE.txt",
+    "static/js/main.85863565.chunk.js.gz": "/check-go-demo/static/js/main.85863565.chunk.js.gz",
     "static/js/runtime-main.e8d3df59.js.gz": "/check-go-demo/static/js/runtime-main.e8d3df59.js.gz",
     "static/media/badminton-court.jpg": "/check-go-demo/static/media/badminton-court.40236de6.jpg",
     "static/media/badminton-court.40236de6.jpg.gz": "/check-go-demo/static/media/badminton-court.40236de6.jpg.gz",
@@ -49,6 +49,6 @@
     "static/css/2.dcd3554e.chunk.css",
     "static/js/2.95a57a6c.chunk.js",
     "static/css/main.c7f8eef9.chunk.css",
-    "static/js/main.27166723.chunk.js"
+    "static/js/main.85863565.chunk.js"
   ]
 }
